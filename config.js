@@ -7,8 +7,8 @@ module.exports = {
   subtitle: 'Just a moron trying to build a website.',
   copyright: 'Copyright © 2019',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 3,
+  googleAnalyticsId: '###',
   useKatex: false,
   menu: [
     {
